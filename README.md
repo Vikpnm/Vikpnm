@@ -1,12 +1,9 @@
----
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=black&text=🛡️%20ACCESS%20RESTRICTED%20🛡️&height=200&fontSize=50&fontAlign=70&fontAlignY=40&animation=fadeIn)
 
 <p align="center">
   <img src="https://media.giphy.com/media/3nmrZ76aKP1Je/giphy.gif?cid=ecf05e477yi1843ci42rkvlj7v1yxsoihe8pajngh7g3ecsj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400">
 </p>
 
----
 
 # 🛡️ **SECURE ZONE: AUTHORIZED USERS ONLY**
 ```markdown
