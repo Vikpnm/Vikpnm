@@ -17,7 +17,7 @@
 
 ## ⚡ **BLACK OPERATIONS INITIATED**
 <p align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/Ye8n2abV5bBQY/giphy.gif?cid=ecf05e47xsscej55ldj1g20qfbp4jxrzg7zxdbjbl63mhbf0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500">
 </p>
 
 - **🔒 Anonymity is inseparable**
@@ -34,10 +34,10 @@
 
 ## ⚡ **OPERATION: GHOST PROTOCOL**
 <p align="center">
-  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/ZqlvCTNHpqrio/giphy.gif?cid=ecf05e4780b4edrb9f6nxj6or1zgpruwow49bxd9yf97w3fk&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500">
 </p>
 
-- **[🌍 TheObserver]([https://github.com/твойникнейм/shadow-network](https://github.com/Vikpnm/TELEGRAM-lurking))** – spying on telegram user (InDev)
+- **[🌍 TheObserver](https://github.com/Vikpnm/TELEGRAM-lurking)** – spying on telegram user (InDev)
 
 ---
 
