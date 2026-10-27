@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=black&text=🛡️%20ACCESS%20RESTRICTED%20🛡️&height=200&fontSize=50&fontAlign=70&fontAlignY=40&animation=fadeIn)
+![header](123n)
 
 
 
